@@ -1,9 +1,9 @@
 :root {
-  --primary: #800020; /* Bordeaux */
-  --bg: #f5f0e1; /* Beige clair */
-  --card: #fff1e6; /* Beige un peu plus foncé */
-  --text: #3e1f1f; /* Marron foncé pour le texte */
-  --muted: #6b4c4c; /* Texte secondaire */
+  --primary: #800020;
+  --bg: #f5f0e1; 
+  --card: #fff1e6; 
+  --text: #3e1f1f; 
+  --muted: #6b4c4c; 
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
